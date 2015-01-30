@@ -1,3 +1,7 @@
+IMPORTANT
+=========
+This is the original Pali NLP repository, however it is no longer maintained. Please see the [Pali NLP Version 2](https://github.com/daalft/PaliNLP2) and [Pali Lemmatizing Server](https://github.com/daalft/PaliLemmatizingServer) for up-to-date repositories.
+
 PaliNLP
 =======
 
